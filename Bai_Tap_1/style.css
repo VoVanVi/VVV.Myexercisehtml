@@ -1,0 +1,67 @@
+body {
+	font-family:Georgia,'Times New Roman', Times, serif;
+}
+#container {
+	width:500px;
+	border: 1px solid #0033FF;
+	
+}
+#container #title{
+	background-image:url('title_background.gif');
+	font-text:bold;
+	height:25px;
+	line-height:27px;
+	margin-top:-10px;
+}
+#container #profile{
+	height: 110px;
+	font-size:13px;
+}
+#container #profile img{
+	height:100px;
+	weight:90px;
+	float:left;
+}
+.profile{
+	overflow:scroll;
+	height:100%;
+}
+#container #fact{
+	font-text:bold;
+	height:25px;
+	margin-top: 10px;
+}
+#container #comment{
+	margin-top:210px;
+	
+}
+.comment{
+	border: 25px;
+	background:#ECECEC;
+	height: 40px;
+	width:492px;
+	margin-left:4px;
+	margin-right:4px;
+	padding-bottom:4px;
+}
+.comment_gif{
+	margin-left:30px;
+	margin-top:-6px;
+}
+a{
+color:blue;
+}
+#container #yourcomment{
+	margin-top:20px;	
+}
+h4{
+	font-text:bold;
+	text-align:center;
+}
+#container #table{
+	margin-top:-20px;	
+}
+.frame{
+	margin-left:-10px;
+}
+
